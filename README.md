@@ -4,7 +4,7 @@ This project implements a text classification model using Spark NLP to classify 
 
 ## Dataset
 
-The AGNews dataset contains news articles categorized into four classes: 
+The AGNews dataset(train and test) are provided and contains news articles categorized into four classes: 
 - World
 - Sports
 - Business
